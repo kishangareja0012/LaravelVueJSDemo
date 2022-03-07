@@ -1,0 +1,6 @@
+export const SOME_MUTATION = 'SOME_MUTATION'
+export const AUTH_SUCCESS = 'AUTH_SUCCESS'
+export const AUTH_ERROR = 'AUTH_ERROR'
+export const LOGOUT = 'LOGOUT'
+export const GET_SUBJECT = 'GET_SUBJECT'
+export const GET_USER_SUBJECT = 'GET_USER_SUBJECT'
